@@ -1,2 +1,5 @@
-# Git-and-Github-
+# Git-and-Github
 Sessions attended and Cheatsheet
+
+
+![Logo](
